@@ -2,3 +2,7 @@ _site/
 .sass-cache/
 .jekyll-metadata
 .bundle
+/.idea/.gitignore
+/.idea/github-slideshow.iml
+/.idea/misc.xml
+/.idea/
